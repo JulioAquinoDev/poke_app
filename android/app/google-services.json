@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093356548983",
+    "project_id": "pokemon-app-usf",
+    "storage_bucket": "pokemon-app-usf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093356548983:android:12eac34fc283df08b3a772",
+        "android_client_info": {
+          "package_name": "com.example.poke_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093356548983-vm2pfkb3iejgimgtpfo9lf2oi7ma0cvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPT7MhkaG3DfdMagM5_L-Rw43_OYrPLdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093356548983-vm2pfkb3iejgimgtpfo9lf2oi7ma0cvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
