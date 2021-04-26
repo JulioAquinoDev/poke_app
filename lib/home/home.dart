@@ -44,10 +44,6 @@ class _HomePageState extends State<HomePage> {
 }
 
 Widget buildListTile(BuildContext context, String item) {
-  // Widget secondary = const Text(
-  //   'Texto Secundário'
-  // );
-
   return new MergeSemantics(
       child: new ListTile(
     title: Padding(
@@ -67,8 +63,6 @@ Widget buildListTile(BuildContext context, String item) {
         color: Colors.white,
         width: setWidth(160.0),
         height: setHeight(90.0),
-        //text: Text('$item'),   Aparece os nome dos pokemon que estão em uma lista.
-        //subtitle: secondary,  Uma desciçã.
       ),
     ),
   ));
