@@ -35,22 +35,7 @@ class _HomePageState extends State<HomePage> {
     //     items.map((String items) => buildListTile(context, items));
 
     return Scaffold(
-      backgroundColor: AppConsts.primaryColor,
-      body: Scrollbar(
-        // Instanciando uma lista estatica na homepage
-        child: Center(
-            child: ListTile(
-          leading: Icon(
-            Icons.add_moderator,
-          ),
-          title: ListItemsPokemons(),
-        )),
-
-        // child: ListView(
-        //   padding: EdgeInsets.symmetric(vertical: AppConsts.heightSize),
-        //   children: listTiles.toList(),
-        // ),
-      ),
+      body: ListItemsPokemons(),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
         backgroundColor: Color(0xffffba08),

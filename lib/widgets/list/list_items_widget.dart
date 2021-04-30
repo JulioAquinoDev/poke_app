@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:poke_app/utils/consts.dart';
 
 class ListItemsPokemons extends StatefulWidget {
   const ListItemsPokemons({Key key}) : super(key: key);
@@ -10,20 +11,29 @@ class ListItemsPokemons extends StatefulWidget {
 class _ListItemsPokemonsState extends State<ListItemsPokemons> {
   // Criando a lista de pokemons aqui
   List<String> listItemsPokemons = [
+    'Pikachu',
     'Squirtle',
     'Bulbasaur',
     'Charizard',
-    'Pikachu',
     'Kadabra',
     'Alakazam',
     'Gastly',
     'Rattata',
-    'Caterpie'
+    'Caterpie',
+    'Ivysaur',
+    'Bulbasaur',
+    'Charmander',
+    'Squirtle',
+    'Caterpie',
+    'Butterfree',
+    'Pidgeotto	',
+    'Onix',
   ];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: AppConsts.primaryColor,
       body: Container(
         // usando o ListView.builder para construir nossa lista de pokemons
         child: ListView.builder(
