@@ -3,14 +3,19 @@ import 'package:poke_app/core/core.dart';
 import 'package:poke_app/utils/consts.dart';
 
 class DrawerWidget extends StatefulWidget {
+  DrawerWidget({Key key}) : super(key: key);
+
   @override
   _DrawerWidgetState createState() => _DrawerWidgetState();
 }
 
 class _DrawerWidgetState extends State<DrawerWidget> {
   final String titulo = "Poke App";
+
   @override
-  Widget build(BuildContext context) {
+  Widget build(
+    BuildContext context,
+  ) {
     return Container(
       child: Drawer(
         child: ListView(
@@ -40,7 +45,9 @@ class _DrawerWidgetState extends State<DrawerWidget> {
                   color: AppColors.black,
                 ),
               ),
-              onTap: () {},
+              onTap: () {
+                Navigator.pop(context);
+              },
             ),
           ],
         ),

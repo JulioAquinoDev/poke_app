@@ -37,7 +37,9 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       body: ListItemsPokemons(),
       floatingActionButton: FloatingActionButton(
-        onPressed: () {},
+        onPressed: () {
+          Navigator.pop(context);
+        },
         backgroundColor: Color(0xffffba08),
         child: Icon(Icons.search),
       ),
