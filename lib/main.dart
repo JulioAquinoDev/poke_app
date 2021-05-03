@@ -1,11 +1,9 @@
-//import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'widgets/my_widgets.dart';
+import 'widgets/search/search_widget.dart';
 
-
-Future<void> main() async {
-  //WidgetsFutureBinding.ensureInitialized();
-  //await Firebase.initializeApp();
-  runApp(MyWidgetsApp());
-
-} 
+void main() {
+  // WidgetsFutureBinding.ensureInitialized();
+  // await Firebase.initializeApp();
+  runApp(SearchWidget());
+}
+>>>>>>> 04c4c2d3751448a3847a62a97ee2b0977e031f70

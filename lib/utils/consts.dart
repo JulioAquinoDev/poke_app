@@ -1,26 +1,25 @@
+import 'package:flutter/cupertino.dart';
 
-
-import 'dart:ui';
-
-class AppConsts{
-
+class AppConsts {
   static double widthPercentage;
   static double heightPercentage;
 
   static double widthSize;
-   static double heightSize;
+  static double heightSize;
 
-  static const double xdwidthSize = 375.0;
-  static const double xdheightSize = 667.0;
+  static const double xdWidthSize = 375.0;
+  static const double xdHeightSize = 667.0;
 
-  static void setWidthSize(double size){
+  static void setWidthSize(double size) {
     widthSize = size;
-    widthPercentage = widthSize / xdwidthSize;
+    widthPercentage = widthSize / xdWidthSize;
   }
 
-  static void setHeightSize(double size){
+  static void setHeightSize(double size) {
     heightSize = size;
-    heightPercentage = heightSize / xdheightSize;
+    heightPercentage = heightSize / xdHeightSize;
   }
 
+  static Color primaryColor = const Color(0xFFffe270);
+  static Color secundaryColor = const Color(0xFFfc5f00);
 }
