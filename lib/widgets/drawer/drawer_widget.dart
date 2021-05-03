@@ -49,6 +49,24 @@ class _DrawerWidgetState extends State<DrawerWidget> {
                 Navigator.pop(context);
               },
             ),
+            ListTile(
+              leading: Icon(
+                Icons.list,
+                size: 35.0,
+                color: AppColors.black,
+              ),
+              title: Text(
+                'Pokémons',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 18.0,
+                  color: AppColors.black,
+                ),
+              ),
+              onTap: () {
+                Navigator.pop(context);
+              },
+            ),
           ],
         ),
       ),
