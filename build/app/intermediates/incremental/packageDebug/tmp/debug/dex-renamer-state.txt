@@ -1,0 +1,4 @@
+#Mon May 03 09:33:27 BRT 2021
+base.0=C\:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

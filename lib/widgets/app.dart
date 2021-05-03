@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:poke_app/utils/consts.dart';
-import 'package:poke_app/widgets/home/home_page.dart';
+import 'package:poke_app/widgets/search/search_widget.dart';
 
 import 'drawer/drawer_widget.dart';
 
@@ -24,7 +24,7 @@ class App extends StatelessWidget {
         ),
         // Cor de fundo amarelho
         backgroundColor: AppConsts.primaryColor,
-        body: HomePage(),
+        body: SearchWidget(),
         drawer: DrawerWidget(),
       ),
     );
