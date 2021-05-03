@@ -35,6 +35,7 @@ class _SearchWidgetState extends State<SearchWidget> {
                   border: OutlineInputBorder(gapPadding: 8.0),
                   hintText: pesquisar,
                   icon: Icon(Icons.search),
+                  // Adicionar um botão para buscar
                 ),
               ),
             ),

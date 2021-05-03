@@ -1,7 +1,10 @@
 # PokeApp
 
+<hr>
+
 <i>
-PokeApp is an application that is being developed in the course of development of mobile systems by Universidade São Francisco, Campinas / SP.
+
+PokeApp is an application that is being developed in the course of development of mobile systems by Universidade São Francisco, Campinas / SP.<br>
 
 Developers Rafael, Júlio.
 </i>
