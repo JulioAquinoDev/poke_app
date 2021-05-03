@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:poke_app/utils/consts.dart';
+import 'package:poke_app/widgets/drawer/drawer_widget.dart';
 
 class SearchWidget extends StatefulWidget {
   @override
@@ -39,6 +40,7 @@ class _SearchWidgetState extends State<SearchWidget> {
             ),
           ],
         ),
+        drawer: DrawerWidget(),
       ),
     );
   }
