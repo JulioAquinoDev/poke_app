@@ -1,0 +1,5 @@
+# arquivos a serem ignorados
+
+*.build
+*.ios
+*.linux
