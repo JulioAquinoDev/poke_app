@@ -1,11 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 09 01:06:43 BRT 2021
 base.0=C\:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 #Sun May 09 02:43:29 BRT 2021
 base.0=/home/rafael/development/poke_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459

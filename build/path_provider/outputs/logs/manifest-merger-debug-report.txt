@@ -1,6 +1,7 @@
 -- Merging decision tree log ---
 manifest
 <<<<<<< HEAD
+<<<<<<< HEAD
 ADDED from C:\Users\julio\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\path_provider-2.0.1\android\src\main\AndroidManifest.xml:1:1-3:12
 INJECTED from C:\Users\julio\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\path_provider-2.0.1\android\src\main\AndroidManifest.xml:1:1-3:12
 INJECTED from C:\Users\julio\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\path_provider-2.0.1\android\src\main\AndroidManifest.xml:1:1-3:12
@@ -19,6 +20,8 @@ INJECTED from C:\Users\julio\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\pat
 		ADDED from C:\Users\julio\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\path_provider-2.0.1\android\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\julio\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\path_provider-2.0.1\android\src\main\AndroidManifest.xml
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 ADDED from /home/rafael/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android/src/main/AndroidManifest.xml:1:1-3:12
 INJECTED from /home/rafael/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android/src/main/AndroidManifest.xml:1:1-3:12
 INJECTED from /home/rafael/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android/src/main/AndroidManifest.xml:1:1-3:12
@@ -36,4 +39,7 @@ INJECTED from /home/rafael/flutter/.pub-cache/hosted/pub.dartlang.org/path_provi
 		INJECTED from /home/rafael/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android/src/main/AndroidManifest.xml
 		ADDED from /home/rafael/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android/src/main/AndroidManifest.xml
 		INJECTED from /home/rafael/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android/src/main/AndroidManifest.xml
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459

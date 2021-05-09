@@ -2,15 +2,21 @@
     "logs": [
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-pt\\values-pt.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-pt/values-pt.xml",
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     "from": {
                         "startLines": "2",

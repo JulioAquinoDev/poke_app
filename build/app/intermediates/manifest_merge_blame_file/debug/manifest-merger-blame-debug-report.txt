@@ -13,6 +13,7 @@
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 14-->C:\meus_projetos\flutter\poke_app\android\app\src\debug\AndroidManifest.xml:6:5-66
 14-->C:\meus_projetos\flutter\poke_app\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -49,6 +50,8 @@
 30            android:windowSoftInputMode="adjustResize" >
 30-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:12:13-55
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 14-->/home/rafael/development/poke_app/android/app/src/debug/AndroidManifest.xml:6:5-66
 14-->/home/rafael/development/poke_app/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -84,6 +87,9 @@
 29-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:9:13-47
 30            android:windowSoftInputMode="adjustResize" >
 30-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:12:13-55
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 31
 32            <!--
@@ -94,17 +100,23 @@
 37            -->
 38            <meta-data
 <<<<<<< HEAD
+<<<<<<< HEAD
 38-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:17:13-20:17
 39                android:name="io.flutter.embedding.android.NormalTheme"
 39-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:18:15-70
 40                android:resource="@style/NormalTheme" />
 40-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:19:15-52
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 38-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:17:13-20:17
 39                android:name="io.flutter.embedding.android.NormalTheme"
 39-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:18:15-70
 40                android:resource="@style/NormalTheme" />
 40-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:19:15-52
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 41            <!--
 42                 Displays an Android View that continues showing the launch screen
@@ -114,6 +126,7 @@
 46                 Flutter's first frame.
 47            -->
 48            <meta-data
+<<<<<<< HEAD
 <<<<<<< HEAD
 48-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:26:13-29:17
 49                android:name="io.flutter.embedding.android.SplashScreenDrawable"
@@ -131,6 +144,8 @@
 55-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:32:17-76
 55-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:32:27-74
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 48-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:26:13-29:17
 49                android:name="io.flutter.embedding.android.SplashScreenDrawable"
 49-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:27:15-79
@@ -146,6 +161,9 @@
 55                <category android:name="android.intent.category.LAUNCHER" />
 55-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:32:17-76
 55-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:32:27-74
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 56            </intent-filter>
 57        </activity>
@@ -154,6 +172,7 @@
 60             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 61        -->
 62        <meta-data
+<<<<<<< HEAD
 <<<<<<< HEAD
 62-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:37:9-39:33
 63            android:name="flutterEmbedding"
@@ -182,6 +201,8 @@
 75                android:value="com.google.firebase.components.ComponentRegistrar" />
 75-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c5fe3d870dce4eed5d8b213f2bf733ca\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 62-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:37:9-39:33
 63            android:name="flutterEmbedding"
 63-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:38:13-44
@@ -208,12 +229,16 @@
 74-->[com.google.firebase:firebase-installations:16.3.5] /home/rafael/.gradle/caches/transforms-2/files-2.1/c5fe3d870dce4eed5d8b213f2bf733ca/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
 75                android:value="com.google.firebase.components.ComponentRegistrar" />
 75-->[com.google.firebase:firebase-installations:16.3.5] /home/rafael/.gradle/caches/transforms-2/files-2.1/c5fe3d870dce4eed5d8b213f2bf733ca/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 76            <!--
 77                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
 78                clients to use it as well, by defining this registrar in their own core/common library.
 79            -->
 80            <meta-data
+<<<<<<< HEAD
 <<<<<<< HEAD
 80-->[com.google.firebase:firebase-common:19.5.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\a348beea78586f27ffc2391bf0a13f9b\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
 81                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
@@ -271,6 +296,8 @@
 110            android:value="@integer/google_play_services_version" />
 110-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\bca6c35aaf5e106d2e94cb61e353e66b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 80-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
 81                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
 81-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
@@ -326,6 +353,9 @@
 109-->[com.google.android.gms:play-services-basement:17.0.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
 110            android:value="@integer/google_play_services_version" />
 110-->[com.google.android.gms:play-services-basement:17.0.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 111    </application>
 112

@@ -1,6 +1,7 @@
 [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "merged": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
         "source": "C:\\meus_projetos\\flutter\\poke_app\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
     },
@@ -28,6 +29,8 @@
         "merged": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\meus_projetos\\flutter\\poke_app\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
         "merged": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/home/rafael/development/poke_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
@@ -54,6 +57,9 @@
     {
         "merged": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
         "source": "/home/rafael/development/poke_app/android/app/src/main/res/drawable-v21/launch_background.xml"
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
     }
 ]
