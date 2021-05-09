@@ -3,11 +3,14 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-eu_values-eu.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\bca6c35aaf5e106d2e94cb61e353e66b\\jetified-play-services-basement-17.0.0\\res\\values-eu\\values.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
@@ -32,6 +35,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-hu/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -41,8 +47,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "200",
                         "endOffsets": "447"
+=======
+                        "endColumns": "235",
+                        "endOffsets": "482"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "235",
                         "endOffsets": "482"
@@ -58,6 +69,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "200",
                         "endOffsets": "301"
                     }
@@ -65,6 +77,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-eu\\values-eu.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "235",
@@ -79,6 +93,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ru/values-ru.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -92,6 +109,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "306",
@@ -109,6 +127,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "321",
                         "endColumns": "100",
                         "endOffsets": "417"
@@ -117,6 +137,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ru/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -126,8 +149,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "208",
                         "endOffsets": "455"
+=======
+                        "endColumns": "215",
+                        "endOffsets": "462"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "215",
                         "endOffsets": "462"
@@ -143,6 +171,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "208",
                         "endOffsets": "309"
                     }
@@ -150,6 +179,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-mn\\values-mn.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "215",
@@ -164,6 +195,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-af/values-af.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -177,6 +211,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "314",
@@ -194,6 +229,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "307",
                         "endColumns": "100",
                         "endOffsets": "403"
@@ -202,6 +239,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-af/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -211,8 +251,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "206",
                         "endOffsets": "453"
+=======
+                        "endColumns": "201",
+                        "endOffsets": "448"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "201",
                         "endOffsets": "448"
@@ -228,6 +273,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "206",
                         "endOffsets": "307"
                     }
@@ -235,6 +281,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-sv\\values-sv.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "201",
@@ -264,6 +312,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ko/values-ko.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -279,10 +330,13 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "312",
                         "endColumns": "100",
                         "endOffsets": "408"
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "285",
@@ -306,6 +360,9 @@
                         "endColumns": "179",
                         "endOffsets": "280"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -316,6 +373,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-bg_values-bg.arsc.flat",
             "map": [
                 {
@@ -323,11 +381,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-lv/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -337,8 +400,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "196",
                         "endOffsets": "443"
+=======
+                        "endColumns": "224",
+                        "endOffsets": "471"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "224",
                         "endOffsets": "471"
@@ -354,6 +422,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "196",
                         "endOffsets": "297"
                     }
@@ -363,6 +432,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "224",
                         "endOffsets": "325"
                     }
@@ -370,6 +441,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-lv/values-lv.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -385,10 +459,13 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "302",
                         "endColumns": "100",
                         "endOffsets": "398"
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "330",
@@ -410,6 +487,9 @@
                         "endColumns": "100",
                         "endOffsets": "151"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -420,6 +500,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-el_values-el.arsc.flat",
             "map": [
                 {
@@ -427,11 +508,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -445,6 +531,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "328",
@@ -463,6 +550,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "294",
                         "endColumns": "100",
                         "endOffsets": "390"
@@ -477,6 +566,9 @@
                         "endColumns": "188",
                         "endOffsets": "442"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -485,6 +577,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "222",
@@ -512,11 +605,16 @@
                         "endColumns": "188",
                         "endOffsets": "289"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "endColumns": "188",
+                        "endOffsets": "289"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ne_values-ne.arsc.flat",
@@ -526,11 +624,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-gl/values-gl.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -544,6 +647,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "328",
@@ -556,6 +660,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "298",
                         "endColumns": "100",
                         "endOffsets": "394"
@@ -564,6 +670,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-gl/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -573,8 +682,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "222",
                         "endOffsets": "469"
+=======
+                        "endColumns": "192",
+                        "endOffsets": "439"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "192",
                         "endOffsets": "439"
@@ -590,8 +704,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "222",
                         "endOffsets": "323"
+=======
+                        "endColumns": "192",
+                        "endOffsets": "293"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "192",
                         "endOffsets": "293"
@@ -607,6 +726,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-be_values-be.arsc.flat",
             "map": [
                 {
@@ -614,11 +734,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-is/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -628,8 +753,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "451"
+=======
+                        "endColumns": "187",
+                        "endOffsets": "434"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "187",
                         "endOffsets": "434"
@@ -645,6 +775,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "305"
                     }
@@ -654,6 +785,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "187",
                         "endOffsets": "288"
                     }
@@ -661,6 +794,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-is/values-is.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -674,6 +810,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "310",
@@ -689,11 +826,17 @@
                         "endColumns": "100",
                         "endOffsets": "389"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "293",
+                        "endColumns": "100",
+                        "endOffsets": "389"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ml_values-ml.arsc.flat",
@@ -703,11 +846,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-az_values-az.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-az/values-az.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -723,6 +871,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "324",
                         "endColumns": "100",
                         "endOffsets": "420"
@@ -733,6 +882,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "326",
                         "endColumns": "100",
                         "endOffsets": "422"
@@ -741,6 +892,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-az/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -750,8 +904,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "218",
                         "endOffsets": "465"
+=======
+                        "endColumns": "220",
+                        "endOffsets": "467"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "220",
                         "endOffsets": "467"
@@ -767,8 +926,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "218",
                         "endOffsets": "319"
+=======
+                        "endColumns": "220",
+                        "endOffsets": "321"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "220",
                         "endOffsets": "321"
@@ -782,6 +946,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
@@ -808,11 +973,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-nb/values-nb.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -828,10 +998,13 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "324",
                         "endColumns": "100",
                         "endOffsets": "420"
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "294",
@@ -855,6 +1028,9 @@
                         "endColumns": "188",
                         "endOffsets": "289"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -863,6 +1039,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
@@ -878,6 +1055,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
             "map": [
                 {
@@ -889,6 +1068,9 @@
                         "endColumns": "198",
                         "endOffsets": "445"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -897,6 +1079,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "157",
@@ -908,6 +1091,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "198",
                         "endOffsets": "299"
                     }
@@ -915,6 +1100,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-et/values-et.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -928,6 +1116,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "263",
@@ -943,11 +1132,17 @@
                         "endColumns": "100",
                         "endOffsets": "400"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "304",
+                        "endColumns": "100",
+                        "endOffsets": "400"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-uk_values-uk.arsc.flat",
@@ -957,11 +1152,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-as_values-as.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-as/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -971,8 +1171,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "451"
+=======
+                        "endColumns": "184",
+                        "endOffsets": "431"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "184",
                         "endOffsets": "431"
@@ -988,6 +1193,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "305"
                     }
@@ -997,6 +1203,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "184",
                         "endOffsets": "285"
                     }
@@ -1004,6 +1212,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-as/values-as.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1017,6 +1228,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "310",
@@ -1032,11 +1244,17 @@
                         "endColumns": "100",
                         "endOffsets": "386"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "290",
+                        "endColumns": "100",
+                        "endOffsets": "386"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-tr_values-tr.arsc.flat",
@@ -1046,11 +1264,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-zu/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1060,8 +1283,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "205",
                         "endOffsets": "452"
+=======
+                        "endColumns": "190",
+                        "endOffsets": "437"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "190",
                         "endOffsets": "437"
@@ -1077,6 +1305,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "205",
                         "endOffsets": "306"
                     }
@@ -1086,6 +1315,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "190",
                         "endOffsets": "291"
                     }
@@ -1093,6 +1324,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-zu/values-zu.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1106,6 +1340,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "311",
@@ -1121,11 +1356,17 @@
                         "endColumns": "100",
                         "endOffsets": "392"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "296",
+                        "endColumns": "100",
+                        "endOffsets": "392"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ro_values-ro.arsc.flat",
@@ -1135,11 +1376,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-am_values-am.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-am/values-am.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1155,6 +1401,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "309",
                         "endColumns": "100",
                         "endOffsets": "405"
@@ -1165,6 +1412,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "296",
                         "endColumns": "100",
                         "endOffsets": "392"
@@ -1173,6 +1422,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-am/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1182,8 +1434,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "203",
                         "endOffsets": "450"
+=======
+                        "endColumns": "190",
+                        "endOffsets": "437"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "190",
                         "endOffsets": "437"
@@ -1199,8 +1456,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "203",
                         "endOffsets": "304"
+=======
+                        "endColumns": "190",
+                        "endOffsets": "291"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "190",
                         "endOffsets": "291"
@@ -1216,11 +1478,14 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-lt_values-lt.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\bca6c35aaf5e106d2e94cb61e353e66b\\jetified-play-services-basement-17.0.0\\res\\values-lt\\values.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat",
@@ -1245,6 +1510,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-fi/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1254,8 +1522,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "217",
                         "endOffsets": "464"
+=======
+                        "endColumns": "208",
+                        "endOffsets": "455"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "208",
                         "endOffsets": "455"
@@ -1271,6 +1544,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "217",
                         "endOffsets": "318"
                     }
@@ -1278,6 +1552,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-lt\\values-lt.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "208",
@@ -1292,6 +1568,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-lt/values-lt.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1311,7 +1590,10 @@
                     }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                 },
@@ -1332,6 +1614,9 @@
                         "endOffsets": "318"
                     }
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1339,6 +1624,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ar_values-ar.arsc.flat",
@@ -1390,6 +1676,20 @@
                         "endOffsets": "455"
                     },
                     "to": {
+=======
+            "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-uz/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "208",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
@@ -1413,6 +1713,9 @@
                         "endColumns": "100",
                         "endOffsets": "410"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1423,6 +1726,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ur_values-ur.arsc.flat",
             "map": [
                 {
@@ -1430,11 +1734,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-pl/values-pl.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1448,6 +1757,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "316",
@@ -1460,6 +1770,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "304",
                         "endColumns": "100",
                         "endOffsets": "400"
@@ -1468,6 +1780,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-pl/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1475,6 +1790,7 @@
                         "startLines": "4",
                         "startColumns": "0",
                         "startOffsets": "247",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "210",
@@ -1487,11 +1803,16 @@
                         "endColumns": "198",
                         "endOffsets": "445"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "endColumns": "198",
+                        "endOffsets": "445"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     },
                     "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "210",
@@ -1504,11 +1825,16 @@
                         "endColumns": "198",
                         "endOffsets": "299"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "endColumns": "198",
+                        "endOffsets": "299"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-my_values-my.arsc.flat",
@@ -1518,11 +1844,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-or_values-or.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-or/values-or.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1536,6 +1867,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "318",
@@ -1548,6 +1880,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "304",
                         "endColumns": "100",
                         "endOffsets": "400"
@@ -1556,6 +1890,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-or/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1565,8 +1902,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "212",
                         "endOffsets": "459"
+=======
+                        "endColumns": "198",
+                        "endOffsets": "445"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "198",
                         "endOffsets": "445"
@@ -1582,8 +1924,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "212",
                         "endOffsets": "313"
+=======
+                        "endColumns": "198",
+                        "endOffsets": "299"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "198",
                         "endOffsets": "299"
@@ -1599,6 +1946,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-fa_values-fa.arsc.flat",
             "map": [
                 {
@@ -1606,11 +1954,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-iw/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1620,8 +1973,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "213",
                         "endOffsets": "460"
+=======
+                        "endColumns": "176",
+                        "endOffsets": "423"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "176",
                         "endOffsets": "423"
@@ -1637,6 +1995,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "213",
                         "endOffsets": "314"
                     }
@@ -1646,6 +2005,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "176",
                         "endOffsets": "277"
                     }
@@ -1653,6 +2014,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-iw/values-iw.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1666,6 +2030,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "319",
@@ -1681,11 +2046,17 @@
                         "endColumns": "100",
                         "endOffsets": "378"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "282",
+                        "endColumns": "100",
+                        "endOffsets": "378"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
@@ -1695,11 +2066,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-hy/values-hy.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1713,6 +2089,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "307",
@@ -1725,6 +2102,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "315",
                         "endColumns": "100",
                         "endOffsets": "411"
@@ -1733,6 +2112,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-hy/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1742,8 +2124,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "201",
                         "endOffsets": "448"
+=======
+                        "endColumns": "209",
+                        "endOffsets": "456"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "209",
                         "endOffsets": "456"
@@ -1759,8 +2146,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "201",
                         "endOffsets": "302"
+=======
+                        "endColumns": "209",
+                        "endOffsets": "310"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "209",
                         "endOffsets": "310"
@@ -1776,6 +2168,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
             "map": [
                 {
@@ -1783,11 +2176,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-th_values-th.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-th/values-th.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1803,6 +2201,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "299",
                         "endColumns": "100",
                         "endOffsets": "395"
@@ -1813,6 +2212,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "293",
                         "endColumns": "100",
                         "endOffsets": "389"
@@ -1821,6 +2222,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-th/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1830,8 +2234,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "193",
                         "endOffsets": "440"
+=======
+                        "endColumns": "187",
+                        "endOffsets": "434"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "187",
                         "endOffsets": "434"
@@ -1847,8 +2256,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "193",
                         "endOffsets": "294"
+=======
+                        "endColumns": "187",
+                        "endOffsets": "288"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "187",
                         "endOffsets": "288"
@@ -1864,11 +2278,14 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-kn_values-kn.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-kn\\values-kn.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat",
@@ -1893,6 +2310,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-lo/values-lo.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1906,6 +2326,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "310",
@@ -1931,6 +2352,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "296",
                         "endColumns": "100",
                         "endOffsets": "392"
@@ -1950,6 +2373,9 @@
                         "endColumns": "100",
                         "endOffsets": "151"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1960,6 +2386,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-lv_values-lv.arsc.flat",
             "map": [
                 {
@@ -1967,11 +2394,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-fa/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -1981,8 +2413,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "224",
                         "endOffsets": "471"
+=======
+                        "endColumns": "213",
+                        "endOffsets": "460"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "213",
                         "endOffsets": "460"
@@ -1998,6 +2435,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "224",
                         "endOffsets": "325"
                     }
@@ -2007,6 +2445,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "213",
                         "endOffsets": "314"
                     }
@@ -2014,6 +2454,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-fa/values-fa.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2027,6 +2470,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "330",
@@ -2042,11 +2486,17 @@
                         "endColumns": "100",
                         "endOffsets": "415"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "319",
+                        "endColumns": "100",
+                        "endOffsets": "415"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
@@ -2056,11 +2506,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ne/values-ne.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2076,6 +2531,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "310",
                         "endColumns": "100",
                         "endOffsets": "406"
@@ -2086,6 +2542,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "328",
                         "endColumns": "100",
                         "endOffsets": "424"
@@ -2094,6 +2552,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ne/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2103,8 +2564,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "451"
+=======
+                        "endColumns": "222",
+                        "endOffsets": "469"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "222",
                         "endOffsets": "469"
@@ -2120,8 +2586,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "305"
+=======
+                        "endColumns": "222",
+                        "endOffsets": "323"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "222",
                         "endOffsets": "323"
@@ -2137,6 +2608,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
             "map": [
                 {
@@ -2144,11 +2616,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ro/values-ro.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2158,6 +2635,7 @@
                         "startOffsets": "55",
                         "endColumns": "100",
                         "endOffsets": "151"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     }
@@ -2172,6 +2650,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     },
                     "to": {
                         "startLines": "3",
@@ -2184,6 +2664,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ro/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2193,8 +2676,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "188",
                         "endOffsets": "435"
+=======
+                        "endColumns": "203",
+                        "endOffsets": "450"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "203",
                         "endOffsets": "450"
@@ -2208,6 +2696,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "188",
@@ -2237,11 +2726,16 @@
                         "endColumns": "203",
                         "endOffsets": "304"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "endColumns": "203",
+                        "endOffsets": "304"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rAU_values-en-rAU.arsc.flat",
@@ -2251,11 +2745,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-in_values-in.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-in/values-in.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2265,6 +2764,7 @@
                         "startOffsets": "55",
                         "endColumns": "100",
                         "endOffsets": "151"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     }
@@ -2279,6 +2779,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     },
                     "to": {
                         "startLines": "3",
@@ -2291,6 +2793,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-in/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2300,8 +2805,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "194",
                         "endOffsets": "441"
+=======
+                        "endColumns": "190",
+                        "endOffsets": "437"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "190",
                         "endOffsets": "437"
@@ -2317,6 +2827,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "194",
                         "endOffsets": "295"
                     }
@@ -2324,6 +2835,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-vi\\values-vi.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "190",
@@ -2338,6 +2851,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ta/values-ta.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2351,6 +2867,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "300",
@@ -2368,6 +2885,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "330",
                         "endColumns": "100",
                         "endOffsets": "426"
@@ -2376,6 +2895,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ta/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2385,8 +2907,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "197",
                         "endOffsets": "444"
+=======
+                        "endColumns": "224",
+                        "endOffsets": "471"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "224",
                         "endOffsets": "471"
@@ -2402,12 +2929,26 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "197",
                         "endOffsets": "298"
                     }
                 },
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-si\\values-si.xml",
+=======
+                        "endColumns": "224",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-sw/values-sw.xml",
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2418,6 +2959,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
                         "startOffsets": "303",
                         "endColumns": "100",
                         "endOffsets": "399"
@@ -2474,6 +3016,9 @@
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "310",
+=======
+                        "startOffsets": "310",
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "100",
                         "endOffsets": "406"
                     }
@@ -2481,6 +3026,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-sw/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2490,8 +3038,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "190",
                         "endOffsets": "437"
+=======
+                        "endColumns": "204",
+                        "endOffsets": "451"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "204",
                         "endOffsets": "451"
@@ -2507,8 +3060,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "190",
                         "endOffsets": "291"
+=======
+                        "endColumns": "204",
+                        "endOffsets": "305"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "204",
                         "endOffsets": "305"
@@ -2524,6 +3082,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-da_values-da.arsc.flat",
             "map": [
                 {
@@ -2531,11 +3090,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ur/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2545,8 +3109,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "185",
                         "endOffsets": "432"
+=======
+                        "endColumns": "210",
+                        "endOffsets": "457"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "210",
                         "endOffsets": "457"
@@ -2562,6 +3131,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "185",
                         "endOffsets": "286"
                     }
@@ -2571,6 +3141,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "210",
                         "endOffsets": "311"
                     }
@@ -2578,6 +3150,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ur/values-ur.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2591,6 +3166,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "291",
@@ -2606,11 +3182,17 @@
                         "endColumns": "100",
                         "endOffsets": "412"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "316",
+                        "endColumns": "100",
+                        "endOffsets": "412"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-pa_values-pa.arsc.flat",
@@ -2620,11 +3202,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-uk/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2634,8 +3221,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "209",
                         "endOffsets": "456"
+=======
+                        "endColumns": "204",
+                        "endOffsets": "451"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "204",
                         "endOffsets": "451"
@@ -2651,6 +3243,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "209",
                         "endOffsets": "310"
                     }
@@ -2660,6 +3253,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "204",
                         "endOffsets": "305"
                     }
@@ -2667,6 +3262,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-uk/values-uk.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2680,6 +3278,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "315",
@@ -2695,11 +3294,17 @@
                         "endColumns": "100",
                         "endOffsets": "406"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "310",
+                        "endColumns": "100",
+                        "endOffsets": "406"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-hu_values-hu.arsc.flat",
@@ -2709,11 +3314,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-pa/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2723,8 +3333,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "235",
                         "endOffsets": "482"
+=======
+                        "endColumns": "209",
+                        "endOffsets": "456"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "209",
                         "endOffsets": "456"
@@ -2740,6 +3355,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "235",
                         "endOffsets": "336"
                     }
@@ -2749,6 +3365,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "209",
                         "endOffsets": "310"
                     }
@@ -2756,6 +3374,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-pa/values-pa.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2769,6 +3390,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "341",
@@ -2784,11 +3406,17 @@
                         "endColumns": "100",
                         "endOffsets": "411"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "315",
+                        "endColumns": "100",
+                        "endOffsets": "411"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
@@ -2900,6 +3528,8 @@
                         "endOffsets": "324"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
             "map": [
                 {
@@ -2934,12 +3564,16 @@
                         "startOffsets": "105",
                         "endColumns": "223",
                         "endOffsets": "324"
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
@@ -2949,11 +3583,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-en-rCA/values-en-rCA.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -2970,11 +3609,14 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-in_values-in.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\bca6c35aaf5e106d2e94cb61e353e66b\\jetified-play-services-basement-17.0.0\\res\\values-in\\values.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
@@ -2999,6 +3641,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-gu/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3008,8 +3653,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "190",
                         "endOffsets": "437"
+=======
+                        "endColumns": "205",
+                        "endOffsets": "452"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "205",
                         "endOffsets": "452"
@@ -3025,6 +3675,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "190",
                         "endOffsets": "291"
                     }
@@ -3032,6 +3683,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-in\\values-in.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "205",
@@ -3046,6 +3699,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-en-rAU/values-en-rAU.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3055,6 +3711,7 @@
                         "startOffsets": "55",
                         "endColumns": "100",
                         "endOffsets": "151"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     },
@@ -3068,11 +3725,14 @@
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-is_values-is.arsc.flat",
@@ -3082,11 +3742,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-hi/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3096,8 +3761,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "187",
                         "endOffsets": "434"
+=======
+                        "endColumns": "204",
+                        "endOffsets": "451"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "204",
                         "endOffsets": "451"
@@ -3113,6 +3783,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "187",
                         "endOffsets": "288"
                     }
@@ -3122,6 +3793,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "204",
                         "endOffsets": "305"
                     }
@@ -3129,6 +3802,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-hi/values-hi.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3142,6 +3818,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "293",
@@ -3157,11 +3834,17 @@
                         "endColumns": "100",
                         "endOffsets": "406"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "310",
+                        "endColumns": "100",
+                        "endOffsets": "406"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
@@ -3171,11 +3854,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-pt-rBR/values-pt-rBR.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3189,6 +3877,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "310",
@@ -3207,6 +3896,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "309",
                         "endColumns": "100",
                         "endOffsets": "405"
@@ -3221,6 +3912,9 @@
                         "endColumns": "203",
                         "endOffsets": "454"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3231,8 +3925,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "305"
+=======
+                        "endColumns": "203",
+                        "endOffsets": "304"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "203",
                         "endOffsets": "304"
@@ -3248,6 +3947,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
             "map": [
                 {
@@ -3255,11 +3955,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-sk/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3281,7 +3986,11 @@
                 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-sk\\values-sk.xml",
+=======
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-sk/values-sk.xml",
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-sk/values-sk.xml",
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3308,6 +4017,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-gu_values-gu.arsc.flat",
             "map": [
                 {
@@ -3315,11 +4025,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ca/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3329,8 +4044,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "205",
                         "endOffsets": "452"
+=======
+                        "endColumns": "193",
+                        "endOffsets": "440"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "193",
                         "endOffsets": "440"
@@ -3346,6 +4066,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "205",
                         "endOffsets": "306"
                     }
@@ -3355,6 +4076,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "193",
                         "endOffsets": "294"
                     }
@@ -3362,6 +4085,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ca/values-ca.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3377,9 +4103,15 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "311",
                         "endColumns": "100",
                         "endOffsets": "407"
+=======
+                        "startOffsets": "299",
+                        "endColumns": "100",
+                        "endOffsets": "395"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "startOffsets": "299",
                         "endColumns": "100",
@@ -3395,6 +4127,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
@@ -3432,6 +4165,8 @@
                         "endColumns": "100",
                         "endOffsets": "405"
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
@@ -3507,6 +4242,9 @@
                         "endColumns": "67,166",
                         "endOffsets": "4651,4888"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3517,6 +4255,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
             "map": [
                 {
@@ -3524,11 +4263,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-da/values-da.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3542,6 +4286,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "286",
@@ -3554,6 +4299,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "291",
                         "endColumns": "100",
                         "endOffsets": "387"
@@ -3562,6 +4309,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-da/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3571,8 +4321,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "180",
                         "endOffsets": "427"
+=======
+                        "endColumns": "185",
+                        "endOffsets": "432"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "185",
                         "endOffsets": "432"
@@ -3588,8 +4343,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "180",
                         "endOffsets": "281"
+=======
+                        "endColumns": "185",
+                        "endOffsets": "286"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "185",
                         "endOffsets": "286"
@@ -3605,6 +4365,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
             "map": [
                 {
@@ -3612,11 +4373,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-vi/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3626,8 +4392,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "208",
                         "endOffsets": "455"
+=======
+                        "endColumns": "194",
+                        "endOffsets": "441"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "194",
                         "endOffsets": "441"
@@ -3643,6 +4414,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "208",
                         "endOffsets": "309"
                     }
@@ -3652,6 +4424,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "194",
                         "endOffsets": "295"
                     }
@@ -3659,6 +4433,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-vi/values-vi.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3672,6 +4449,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "314",
@@ -3687,11 +4465,17 @@
                         "endColumns": "100",
                         "endOffsets": "396"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "300",
+                        "endColumns": "100",
+                        "endOffsets": "396"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-zh-rHK_values-zh-rHK.arsc.flat",
@@ -3707,6 +4491,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat",
             "map": [
                 {
@@ -3718,6 +4504,9 @@
                         "endColumns": "210",
                         "endOffsets": "457"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3726,6 +4515,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "166",
@@ -3737,6 +4527,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "210",
                         "endOffsets": "311"
                     }
@@ -3744,6 +4536,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-bn/values-bn.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3757,6 +4552,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "272",
@@ -3772,11 +4568,17 @@
                         "endColumns": "100",
                         "endOffsets": "412"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "316",
+                        "endColumns": "100",
+                        "endOffsets": "412"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-nb_values-nb.arsc.flat",
@@ -3786,11 +4588,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ky/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3800,8 +4607,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "188",
                         "endOffsets": "435"
+=======
+                        "endColumns": "220",
+                        "endOffsets": "467"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "220",
                         "endOffsets": "467"
@@ -3817,6 +4629,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "188",
                         "endOffsets": "289"
                     }
@@ -3826,6 +4639,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "220",
                         "endOffsets": "321"
                     }
@@ -3833,6 +4648,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ky/values-ky.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3848,9 +4666,15 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "294",
                         "endColumns": "100",
                         "endOffsets": "390"
+=======
+                        "startOffsets": "326",
+                        "endColumns": "100",
+                        "endOffsets": "422"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "startOffsets": "326",
                         "endColumns": "100",
@@ -3866,6 +4690,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
@@ -3898,6 +4723,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
                 {
@@ -3909,6 +4736,9 @@
                         "endColumns": "219",
                         "endOffsets": "470"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3917,6 +4747,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "176",
@@ -3933,6 +4764,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "219",
                         "endOffsets": "320"
                     }
@@ -3940,6 +4773,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-fr-rCA/values-fr-rCA.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3955,6 +4791,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "296",
                         "endColumns": "100",
                         "endOffsets": "392"
@@ -3963,6 +4800,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\bca6c35aaf5e106d2e94cb61e353e66b\\jetified-play-services-basement-17.0.0\\res\\values-lo\\values.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "325",
@@ -3978,6 +4817,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-si/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -3987,8 +4829,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "190",
                         "endOffsets": "437"
+=======
+                        "endColumns": "197",
+                        "endOffsets": "444"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "197",
                         "endOffsets": "444"
@@ -4002,6 +4849,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "190",
@@ -4018,6 +4866,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "197",
                         "endOffsets": "298"
                     }
@@ -4025,6 +4875,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-si/values-si.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4036,7 +4889,10 @@
                         "endOffsets": "151"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     },
@@ -4047,6 +4903,9 @@
                         "endColumns": "100",
                         "endOffsets": "399"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4055,6 +4914,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-uz_values-uz.arsc.flat",
@@ -4094,6 +4954,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat",
             "map": [
                 {
@@ -4129,6 +4991,9 @@
                         "endColumns": "100",
                         "endOffsets": "390"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4137,6 +5002,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
@@ -4152,6 +5018,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
             "map": [
                 {
@@ -4163,6 +5031,9 @@
                         "endColumns": "204",
                         "endOffsets": "451"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4178,7 +5049,11 @@
                 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-es-rUS\\values-es-rUS.xml",
+=======
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-be/values-be.xml",
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-be/values-be.xml",
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4203,6 +5078,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
@@ -4218,6 +5094,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat",
             "map": [
                 {
@@ -4229,6 +5107,9 @@
                         "endColumns": "196",
                         "endOffsets": "447"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4237,6 +5118,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "223",
@@ -4248,6 +5130,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "196",
                         "endOffsets": "297"
                     }
@@ -4255,6 +5139,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-en-rGB/values-en-rGB.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4268,6 +5155,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "329",
@@ -4283,11 +5171,17 @@
                         "endColumns": "100",
                         "endOffsets": "398"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "302",
+                        "endColumns": "100",
+                        "endOffsets": "398"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-th_values-th.arsc.flat",
@@ -4297,11 +5191,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ml/values-ml.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4315,6 +5214,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "293",
@@ -4327,6 +5227,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "324",
                         "endColumns": "100",
                         "endOffsets": "420"
@@ -4335,6 +5237,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ml/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4344,8 +5249,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "187",
                         "endOffsets": "434"
+=======
+                        "endColumns": "218",
+                        "endOffsets": "465"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "218",
                         "endOffsets": "465"
@@ -4361,8 +5271,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "187",
                         "endOffsets": "288"
+=======
+                        "endColumns": "218",
+                        "endOffsets": "319"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "218",
                         "endOffsets": "319"
@@ -4378,6 +5293,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-hy_values-hy.arsc.flat",
             "map": [
                 {
@@ -4385,11 +5301,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-it/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4399,8 +5320,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "209",
                         "endOffsets": "456"
+=======
+                        "endColumns": "194",
+                        "endOffsets": "441"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "194",
                         "endOffsets": "441"
@@ -4416,6 +5342,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "209",
                         "endOffsets": "310"
                     }
@@ -4425,6 +5352,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "194",
                         "endOffsets": "295"
                     }
@@ -4432,6 +5361,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-it/values-it.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4445,6 +5377,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "315",
@@ -4460,11 +5393,17 @@
                         "endColumns": "100",
                         "endOffsets": "396"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "300",
+                        "endColumns": "100",
+                        "endOffsets": "396"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-zh-rTW_values-zh-rTW.arsc.flat",
@@ -4480,6 +5419,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat",
             "map": [
                 {
@@ -4491,6 +5432,9 @@
                         "endColumns": "204",
                         "endOffsets": "451"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4499,6 +5443,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "161",
@@ -4510,6 +5455,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "204",
                         "endOffsets": "305"
                     }
@@ -4517,6 +5464,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-kn/values-kn.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4532,9 +5482,15 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "267",
                         "endColumns": "100",
                         "endOffsets": "363"
+=======
+                        "startOffsets": "310",
+                        "endColumns": "100",
+                        "endOffsets": "406"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "startOffsets": "310",
                         "endColumns": "100",
@@ -4550,6 +5506,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
@@ -4576,11 +5533,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-es/values-es.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4594,6 +5556,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "307",
@@ -4611,6 +5574,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "324",
                         "endColumns": "100",
                         "endOffsets": "420"
@@ -4619,6 +5584,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-es/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4628,8 +5596,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "198",
                         "endOffsets": "445"
+=======
+                        "endColumns": "218",
+                        "endOffsets": "465"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "218",
                         "endOffsets": "465"
@@ -4643,6 +5616,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "198",
@@ -4672,11 +5646,16 @@
                         "endColumns": "218",
                         "endOffsets": "319"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "endColumns": "218",
+                        "endOffsets": "319"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-as_values-as.arsc.flat",
@@ -4686,11 +5665,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-tr/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4700,8 +5684,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "184",
                         "endOffsets": "431"
+=======
+                        "endColumns": "205",
+                        "endOffsets": "452"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "205",
                         "endOffsets": "452"
@@ -4717,6 +5706,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "184",
                         "endOffsets": "285"
                     }
@@ -4726,6 +5716,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "205",
                         "endOffsets": "306"
                     }
@@ -4733,6 +5725,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-tr/values-tr.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4748,9 +5743,15 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "290",
                         "endColumns": "100",
                         "endOffsets": "386"
+=======
+                        "startOffsets": "311",
+                        "endColumns": "100",
+                        "endOffsets": "407"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "startOffsets": "311",
                         "endColumns": "100",
@@ -4766,6 +5767,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
@@ -4805,6 +5807,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
             "map": [
                 {
@@ -4840,6 +5844,9 @@
                         "endColumns": "100",
                         "endOffsets": "405"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4850,6 +5857,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-or_values-or.arsc.flat",
             "map": [
                 {
@@ -4857,11 +5865,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-zh-rCN/values-zh-rCN.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4875,6 +5888,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "304",
@@ -4915,6 +5929,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "263",
                         "endColumns": "100",
                         "endOffsets": "359"
@@ -4929,6 +5945,9 @@
                         "endColumns": "157",
                         "endOffsets": "408"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4937,6 +5956,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "190",
@@ -4966,11 +5986,16 @@
                         "endColumns": "157",
                         "endOffsets": "258"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "endColumns": "157",
+                        "endOffsets": "258"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-tl_values-tl.arsc.flat",
@@ -4980,11 +6005,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-bg/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -4994,8 +6024,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "451"
+=======
+                        "endColumns": "196",
+                        "endOffsets": "443"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "196",
                         "endOffsets": "443"
@@ -5011,6 +6046,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "305"
                     }
@@ -5020,6 +6056,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "196",
                         "endOffsets": "297"
                     }
@@ -5027,6 +6065,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-bg/values-bg.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5040,6 +6081,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "310",
@@ -5086,11 +6128,24 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "302",
+                        "endColumns": "100",
+                        "endOffsets": "398"
+                    }
+                }
+            ]
+        },
+        {
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-nl/values-nl.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5108,6 +6163,7 @@
                         "endColumns": "100",
                         "endOffsets": "403"
                     }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                 }
@@ -5128,14 +6184,24 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-nl/values.xml",
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                },
+                {
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-nl/values.xml",
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "179",
                         "endOffsets": "426"
+=======
+                        "endColumns": "201",
+                        "endOffsets": "448"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "201",
                         "endOffsets": "448"
@@ -5151,6 +6217,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "179",
                         "endOffsets": "280"
                     }
@@ -5158,6 +6225,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-ko\\values-ko.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "201",
@@ -5172,6 +6241,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ms/values-ms.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5187,10 +6259,13 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "285",
                         "endColumns": "100",
                         "endOffsets": "381"
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "310",
@@ -5214,6 +6289,9 @@
                         "endColumns": "204",
                         "endOffsets": "305"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5224,6 +6302,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ta_values-ta.arsc.flat",
             "map": [
                 {
@@ -5231,11 +6310,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ar/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5245,8 +6329,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "224",
                         "endOffsets": "471"
+=======
+                        "endColumns": "188",
+                        "endOffsets": "435"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "188",
                         "endOffsets": "435"
@@ -5262,6 +6351,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "224",
                         "endOffsets": "325"
                     }
@@ -5271,6 +6361,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "188",
                         "endOffsets": "289"
                     }
@@ -5278,6 +6370,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ar/values-ar.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5293,9 +6388,15 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "330",
                         "endColumns": "100",
                         "endOffsets": "426"
+=======
+                        "startOffsets": "294",
+                        "endColumns": "100",
+                        "endOffsets": "390"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "startOffsets": "294",
                         "endColumns": "100",
@@ -5311,6 +6412,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
@@ -5327,6 +6429,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
@@ -5339,6 +6443,9 @@
                         "endColumns": "12,12",
                         "endOffsets": "464,979"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5355,6 +6462,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-et_values-et.arsc.flat",
@@ -5381,11 +6489,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-hr/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5395,8 +6508,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "198",
                         "endOffsets": "445"
+=======
+                        "endColumns": "190",
+                        "endOffsets": "437"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "190",
                         "endOffsets": "437"
@@ -5410,6 +6528,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "198",
@@ -5426,6 +6545,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "190",
                         "endOffsets": "291"
                     }
@@ -5433,6 +6554,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-hr/values-hr.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5448,6 +6572,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "310",
                         "endColumns": "100",
                         "endOffsets": "406"
@@ -5456,6 +6581,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\bca6c35aaf5e106d2e94cb61e353e66b\\jetified-play-services-basement-17.0.0\\res\\values-ms\\values.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "296",
@@ -5486,6 +6613,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-eu/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5495,8 +6625,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "204",
                         "endOffsets": "451"
+=======
+                        "endColumns": "200",
+                        "endOffsets": "447"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "200",
                         "endOffsets": "447"
@@ -5510,6 +6645,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "204",
@@ -5526,6 +6662,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "200",
                         "endOffsets": "301"
                     }
@@ -5533,6 +6671,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-eu/values-eu.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5546,6 +6687,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "298",
@@ -5578,11 +6720,17 @@
                         "endColumns": "100",
                         "endOffsets": "402"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "306",
+                        "endColumns": "100",
+                        "endOffsets": "402"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-te_values-te.arsc.flat",
@@ -5592,11 +6740,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-mn/values-mn.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5610,6 +6763,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "304",
@@ -5622,6 +6776,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "314",
                         "endColumns": "100",
                         "endOffsets": "410"
@@ -5630,6 +6786,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-mn/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5639,8 +6798,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "198",
                         "endOffsets": "445"
+=======
+                        "endColumns": "208",
+                        "endOffsets": "455"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "208",
                         "endOffsets": "455"
@@ -5656,8 +6820,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "198",
                         "endOffsets": "299"
+=======
+                        "endColumns": "208",
+                        "endOffsets": "309"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "208",
                         "endOffsets": "309"
@@ -5673,6 +6842,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
             "map": [
                 {
@@ -5680,11 +6850,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-bs/values-bs.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5700,6 +6875,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "293",
                         "endColumns": "100",
                         "endOffsets": "389"
@@ -5710,6 +6886,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "305",
                         "endColumns": "100",
                         "endOffsets": "401"
@@ -5718,6 +6896,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-bs/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5727,8 +6908,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "187",
                         "endOffsets": "434"
+=======
+                        "endColumns": "199",
+                        "endOffsets": "446"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "199",
                         "endOffsets": "446"
@@ -5744,8 +6930,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "187",
                         "endOffsets": "288"
+=======
+                        "endColumns": "199",
+                        "endOffsets": "300"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "199",
                         "endOffsets": "300"
@@ -5759,6 +6950,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
@@ -5773,6 +6965,8 @@
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
@@ -5810,6 +7004,9 @@
                         "endColumns": "100",
                         "endOffsets": "403"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5820,6 +7017,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
             "map": [
                 {
@@ -5827,11 +7025,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-es-rUS/values-es-rUS.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5847,6 +7050,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "309",
                         "endColumns": "100",
                         "endOffsets": "405"
@@ -5857,6 +7061,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "310",
                         "endColumns": "100",
                         "endOffsets": "406"
@@ -5865,6 +7071,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-es-rUS/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5874,8 +7083,13 @@
                         "startOffsets": "251",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "203",
                         "endOffsets": "454"
+=======
+                        "endColumns": "204",
+                        "endOffsets": "455"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "204",
                         "endOffsets": "455"
@@ -5891,8 +7105,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "203",
                         "endOffsets": "304"
+=======
+                        "endColumns": "204",
+                        "endOffsets": "305"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "204",
                         "endOffsets": "305"
@@ -5908,6 +7127,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
                 {
@@ -5915,11 +7135,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-de/values-de.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5927,6 +7152,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
+<<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "100",
                         "endOffsets": "151"
@@ -5950,12 +7176,17 @@
                         "endOffsets": "470"
 =======
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "100",
                         "endOffsets": "151"
                     },
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "309",
                         "endColumns": "100",
@@ -5971,6 +7202,9 @@
                         "endColumns": "203",
                         "endOffsets": "450"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -5981,8 +7215,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "219",
                         "endOffsets": "320"
+=======
+                        "endColumns": "203",
+                        "endOffsets": "304"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "203",
                         "endOffsets": "304"
@@ -5998,6 +7237,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
             "map": [
                 {
@@ -6005,11 +7245,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-tl/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6019,8 +7264,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "201",
                         "endOffsets": "448"
+=======
+                        "endColumns": "204",
+                        "endOffsets": "451"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "204",
                         "endOffsets": "451"
@@ -6036,6 +7286,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "201",
                         "endOffsets": "302"
                     }
@@ -6045,6 +7296,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "204",
                         "endOffsets": "305"
                     }
@@ -6052,6 +7305,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-tl/values-tl.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6065,6 +7321,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "307",
@@ -6124,6 +7381,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "310",
+                        "endColumns": "100",
+                        "endOffsets": "406"
+                    }
+                }
+            ]
+        },
+        {
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-my_values-my.arsc.flat",
             "map": [
                 {
@@ -6159,6 +7426,9 @@
                         "endColumns": "212",
                         "endOffsets": "313"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6169,6 +7439,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-mk_values-mk.arsc.flat",
             "map": [
                 {
@@ -6176,11 +7447,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-zh-rTW/values-zh-rTW.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6194,6 +7470,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "301",
@@ -6212,6 +7489,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "267",
                         "endColumns": "100",
                         "endOffsets": "363"
@@ -6226,6 +7505,9 @@
                         "endColumns": "161",
                         "endOffsets": "412"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6236,8 +7518,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "195",
                         "endOffsets": "296"
+=======
+                        "endColumns": "161",
+                        "endOffsets": "262"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "161",
                         "endOffsets": "262"
@@ -6253,6 +7540,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-km_values-km.arsc.flat",
             "map": [
                 {
@@ -6260,11 +7548,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-sv/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6274,8 +7567,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "207",
                         "endOffsets": "454"
+=======
+                        "endColumns": "206",
+                        "endOffsets": "453"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "206",
                         "endOffsets": "453"
@@ -6291,6 +7589,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "207",
                         "endOffsets": "308"
                     }
@@ -6300,6 +7599,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "206",
                         "endOffsets": "307"
                     }
@@ -6307,6 +7608,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-sv/values-sv.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6320,6 +7624,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "313",
@@ -6335,11 +7640,17 @@
                         "endColumns": "100",
                         "endOffsets": "408"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "312",
+                        "endColumns": "100",
+                        "endOffsets": "408"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
@@ -6349,11 +7660,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-kk/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6363,8 +7679,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "220",
                         "endOffsets": "467"
+=======
+                        "endColumns": "222",
+                        "endOffsets": "469"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "222",
                         "endOffsets": "469"
@@ -6380,6 +7701,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "220",
                         "endOffsets": "321"
                     }
@@ -6389,6 +7711,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "222",
                         "endOffsets": "323"
                     }
@@ -6396,6 +7720,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-kk/values-kk.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6411,9 +7738,15 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "326",
                         "endColumns": "100",
                         "endOffsets": "422"
+=======
+                        "startOffsets": "328",
+                        "endColumns": "100",
+                        "endOffsets": "424"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "startOffsets": "328",
                         "endColumns": "100",
@@ -6429,6 +7762,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rXC_values-en-rXC.arsc.flat",
@@ -6444,6 +7778,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
             "map": [
                 {
@@ -6456,6 +7792,9 @@
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6466,6 +7805,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
             "map": [
                 {
@@ -6473,11 +7813,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-km_values-km.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-km/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6485,6 +7830,7 @@
                         "startLines": "4",
                         "startColumns": "0",
                         "startOffsets": "247",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "190",
@@ -6536,11 +7882,16 @@
                         "endColumns": "207",
                         "endOffsets": "454"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "endColumns": "207",
+                        "endOffsets": "454"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     },
                     "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "196",
@@ -6552,6 +7903,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "207",
                         "endOffsets": "308"
                     }
@@ -6559,6 +7912,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-km/values-km.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6572,6 +7928,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "302",
@@ -6587,11 +7944,17 @@
                         "endColumns": "100",
                         "endOffsets": "409"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "313",
+                        "endColumns": "100",
+                        "endOffsets": "409"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-kk_values-kk.arsc.flat",
@@ -6601,11 +7964,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ja/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6615,8 +7983,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "222",
                         "endOffsets": "469"
+=======
+                        "endColumns": "180",
+                        "endOffsets": "427"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "180",
                         "endOffsets": "427"
@@ -6632,6 +8005,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "222",
                         "endOffsets": "323"
                     }
@@ -6641,6 +8015,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "180",
                         "endOffsets": "281"
                     }
@@ -6648,6 +8024,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ja/values-ja.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6661,6 +8040,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "328",
@@ -6676,11 +8056,17 @@
                         "endColumns": "100",
                         "endOffsets": "382"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "286",
+                        "endColumns": "100",
+                        "endOffsets": "382"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-it_values-it.arsc.flat",
@@ -6690,11 +8076,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-mr/values-mr.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6708,6 +8099,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "300",
@@ -6720,6 +8112,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "307",
                         "endColumns": "100",
                         "endOffsets": "403"
@@ -6728,6 +8122,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-mr/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6737,8 +8134,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "194",
                         "endOffsets": "441"
+=======
+                        "endColumns": "201",
+                        "endOffsets": "448"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "201",
                         "endOffsets": "448"
@@ -6754,8 +8156,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "194",
                         "endOffsets": "295"
+=======
+                        "endColumns": "201",
+                        "endOffsets": "302"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "201",
                         "endOffsets": "302"
@@ -6771,6 +8178,7 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-az_values-az.arsc.flat",
             "map": [
                 {
@@ -6778,11 +8186,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-cs/values-cs.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6798,6 +8211,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "326",
                         "endColumns": "100",
                         "endOffsets": "422"
@@ -6808,6 +8222,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "307",
                         "endColumns": "100",
                         "endOffsets": "403"
@@ -6816,6 +8232,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-cs/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6825,8 +8244,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "220",
                         "endOffsets": "467"
+=======
+                        "endColumns": "201",
+                        "endOffsets": "448"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "201",
                         "endOffsets": "448"
@@ -6842,8 +8266,13 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "220",
                         "endOffsets": "321"
+=======
+                        "endColumns": "201",
+                        "endOffsets": "302"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "201",
                         "endOffsets": "302"
@@ -6857,6 +8286,7 @@
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
@@ -6872,6 +8302,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat",
             "map": [
                 {
@@ -6883,6 +8315,9 @@
                         "endColumns": "187",
                         "endOffsets": "434"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6891,6 +8326,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "188",
@@ -6902,6 +8338,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "187",
                         "endOffsets": "288"
                     }
@@ -6909,6 +8347,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-sq/values-sq.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6922,6 +8363,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "294",
@@ -6937,11 +8379,17 @@
                         "endColumns": "100",
                         "endOffsets": "389"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "293",
+                        "endColumns": "100",
+                        "endOffsets": "389"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-bs_values-bs.arsc.flat",
@@ -6951,11 +8399,16 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
             "map": [
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-sl/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -6965,8 +8418,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "199",
                         "endOffsets": "446"
+=======
+                        "endColumns": "198",
+                        "endOffsets": "445"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "198",
                         "endOffsets": "445"
@@ -6982,6 +8440,7 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "199",
                         "endOffsets": "300"
                     }
@@ -6991,6 +8450,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "198",
                         "endOffsets": "299"
                     }
@@ -6998,6 +8459,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-sl/values-sl.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -7011,6 +8475,7 @@
                     "to": {
                         "startLines": "3",
                         "startColumns": "4",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "startOffsets": "305",
@@ -7026,11 +8491,17 @@
                         "endColumns": "100",
                         "endOffsets": "400"
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+                        "startOffsets": "304",
+                        "endColumns": "100",
+                        "endOffsets": "400"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     }
                 }
             ]
         },
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
@@ -7046,6 +8517,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
             "map": [
                 {
@@ -7057,6 +8530,9 @@
                         "endColumns": "166",
                         "endOffsets": "417"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -7065,6 +8541,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "203",
@@ -7076,6 +8553,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "166",
                         "endOffsets": "267"
                     }
@@ -7083,6 +8562,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-zh-rHK/values-zh-rHK.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -7098,9 +8580,15 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "309",
                         "endColumns": "100",
                         "endOffsets": "405"
+=======
+                        "startOffsets": "272",
+                        "endColumns": "100",
+                        "endOffsets": "368"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "startOffsets": "272",
                         "endColumns": "100",
@@ -7118,11 +8606,14 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\res\\merged\\debug\\values-cs_values-cs.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-cs\\values-cs.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
             "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
@@ -7147,6 +8638,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-te/values-te.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -7162,6 +8656,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "307",
                         "endColumns": "100",
                         "endOffsets": "403"
@@ -7170,6 +8665,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\bca6c35aaf5e106d2e94cb61e353e66b\\jetified-play-services-basement-17.0.0\\res\\values-cs\\values.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "304",
@@ -7185,6 +8682,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-el/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -7194,8 +8694,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "201",
                         "endOffsets": "448"
+=======
+                        "endColumns": "222",
+                        "endOffsets": "469"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "222",
                         "endOffsets": "469"
@@ -7209,6 +8714,7 @@
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "105",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         "endColumns": "201",
@@ -7225,6 +8731,8 @@
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "222",
                         "endOffsets": "323"
                     }
@@ -7232,6 +8740,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-el/values-el.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -7247,6 +8758,7 @@
                         "startColumns": "4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "startOffsets": "316",
                         "endColumns": "100",
                         "endOffsets": "412"
@@ -7255,6 +8767,8 @@
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\bca6c35aaf5e106d2e94cb61e353e66b\\jetified-play-services-basement-17.0.0\\res\\values-bn\\values.xml",
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "startOffsets": "328",
@@ -7270,6 +8784,9 @@
                 {
                     "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-mk/values.xml",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
@@ -7279,8 +8796,13 @@
                         "startOffsets": "247",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "210",
                         "endOffsets": "457"
+=======
+                        "endColumns": "195",
+                        "endOffsets": "442"
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
                         "endColumns": "195",
                         "endOffsets": "442"
@@ -7296,9 +8818,12 @@
                         "startOffsets": "105",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                         "endColumns": "210",
                         "endOffsets": "311"
 =======
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                         "endColumns": "195",
@@ -7321,6 +8846,9 @@
                         "endColumns": "100",
                         "endOffsets": "397"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459

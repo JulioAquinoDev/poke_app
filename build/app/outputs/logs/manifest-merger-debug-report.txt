@@ -2,6 +2,7 @@
 manifest
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ADDED from C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
 INJECTED from C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
 INJECTED from C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
@@ -339,6 +340,8 @@ ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\julio
 =======
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 ADDED from /home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:1:1-41:12
 INJECTED from /home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:1:1-41:12
 INJECTED from /home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:1:1-41:12
@@ -674,6 +677,9 @@ ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/rafael/.
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
+=======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 =======
 >>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
