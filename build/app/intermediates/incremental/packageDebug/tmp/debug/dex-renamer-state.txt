@@ -1,0 +1,4 @@
+#Sat May 08 22:48:51 BRT 2021
+base.0=/home/rafael/development/poke_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -24,21 +24,44 @@ class _SearchWidgetState extends State<SearchWidget> {
             textDirection: TextDirection.ltr,
           ),
         ),
-        body: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 15),
-              child: TextFormField(
-                decoration: InputDecoration(
-                  border: OutlineInputBorder(gapPadding: 8.0),
-                  hintText: pesquisar,
-                  icon: Icon(Icons.search),
-                  // Adicionar um botão para buscar
+        body: Padding(
+          padding:
+              const EdgeInsets.symmetric(horizontal: 26.0, vertical: 250.0),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Container(
+                child: TextFormField(
+                  textAlign: TextAlign.center,
+                  decoration: InputDecoration(
+                    hintText: pesquisar,
+                  ),
                 ),
               ),
-            ),
-          ],
+              // Adicionar um botão para buscar
+              Container(
+                child: Center(
+                  child: Padding(
+                      padding: const EdgeInsets.symmetric(
+                        horizontal: 16.0,
+                        vertical: 16.0,
+                      ),
+                      child: OutlinedButton.icon(
+                        onPressed: () {
+                          // Implementar aqui função de buscas
+                        },
+                        icon: Icon(
+                          Icons.search,
+                          size: 25,
+                        ),
+                        label: Text(
+                          "PESQUISAR",
+                        ),
+                      )),
+                ),
+              ),
+            ],
+          ),
         ),
       ),
     );
