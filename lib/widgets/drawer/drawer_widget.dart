@@ -51,12 +51,12 @@ class _DrawerWidgetState extends State<DrawerWidget> {
             ),
             ListTile(
               leading: Icon(
-                Icons.list,
+                Icons.grid_view,
                 size: 35.0,
                 color: AppColors.black,
               ),
               title: Text(
-                'Pokémons',
+                'All Pokémons',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 18.0,

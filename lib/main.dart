@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'widgets/search/search_widget.dart';
+import 'package:poke_app/widgets/details/details_widget.dart';
 
 void main() {
-  runApp(SearchWidget());
+  runApp(DetailsWidget());
 }
