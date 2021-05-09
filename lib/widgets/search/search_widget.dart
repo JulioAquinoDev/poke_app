@@ -8,20 +8,24 @@ class SearchWidget extends StatefulWidget {
 
 class _SearchWidgetState extends State<SearchWidget> {
   final String titulo = 'Poke App';
-  final String pesquisar = 'Pesquisar';
+  final String pesquisar = 'Pesquise um pokémon';
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: pesquisar,
       home: Scaffold(
+        // cor de fundo
         backgroundColor: AppConsts.primaryColor,
         appBar: AppBar(
+          // cor de fundo do app bar
           backgroundColor: AppConsts.secundaryColor,
           shadowColor: AppConsts.secundaryColor,
-          title: Text(
-            titulo,
-            textDirection: TextDirection.ltr,
+          title: Center(
+            child: Text(
+              titulo,
+              textDirection: TextDirection.ltr,
+            ),
           ),
         ),
         body: Column(
@@ -50,7 +54,7 @@ class _SearchWidgetState extends State<SearchWidget> {
                   color: AppConsts.secundaryColor,
                 ),
                 label: Text(
-                  "PESQUISAR",
+                  "BUSCAR",
                   style: TextStyle(
                     fontSize: 25,
                     color: AppConsts.secundaryColor,
