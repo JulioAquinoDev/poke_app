@@ -9,33 +9,57 @@ class SearchWidget extends StatefulWidget {
 
 class _SearchWidgetState extends State<SearchWidget> {
   final String titulo = 'Poke App';
-  final String pesquisar = 'Pesquisar';
+  final String pesquisar = 'Pesquise um pokémon';
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: pesquisar,
       home: Scaffold(
+        // cor de fundo
         backgroundColor: AppConsts.primaryColor,
         appBar: AppBar(
+          // cor de fundo do app bar
           backgroundColor: AppConsts.secundaryColor,
           shadowColor: AppConsts.secundaryColor,
-          title: Text(
-            titulo,
-            textDirection: TextDirection.ltr,
+          title: Center(
+            child: Text(
+              titulo,
+              textDirection: TextDirection.ltr,
+            ),
           ),
         ),
         body: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 15),
+            Container(
+              padding: EdgeInsets.symmetric(horizontal: 55.0),
               child: TextFormField(
+                textAlign: TextAlign.center,
                 decoration: InputDecoration(
-                  border: OutlineInputBorder(gapPadding: 8.0),
                   hintText: pesquisar,
-                  icon: Icon(Icons.search),
-                  // Adicionar um botão para buscar
+                  hintStyle: TextStyle(fontSize: 20),
+                ),
+              ),
+            ),
+            // Adicionar um botão para buscar
+            Container(
+              padding: EdgeInsets.symmetric(horizontal: 10.0, vertical: 10.0),
+              child: OutlinedButton.icon(
+                onPressed: () {
+                  // Implementar aqui funções de buscas
+                },
+                icon: Icon(
+                  Icons.search,
+                  size: 25,
+                  color: AppConsts.secundaryColor,
+                ),
+                label: Text(
+                  "BUSCAR",
+                  style: TextStyle(
+                    fontSize: 25,
+                    color: AppConsts.secundaryColor,
+                  ),
                 ),
               ),
             ),

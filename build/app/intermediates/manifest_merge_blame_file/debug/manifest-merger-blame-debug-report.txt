@@ -12,6 +12,7 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
+<<<<<<< HEAD
 14-->C:\meus_projetos\flutter\poke_app\android\app\src\debug\AndroidManifest.xml:6:5-66
 14-->C:\meus_projetos\flutter\poke_app\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -47,6 +48,43 @@
 29-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:9:13-47
 30            android:windowSoftInputMode="adjustResize" >
 30-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:12:13-55
+=======
+14-->/home/rafael/development/poke_app/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/rafael/development/poke_app/android/app/src/debug/AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:23:5-79
+15-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:23:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+17-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:26:5-110
+17-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:26:22-107
+18
+19    <application
+19-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:3:4-40:19
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:5:9-43
+23        android:label="poke_app" >
+23-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:4:9-33
+24        <activity
+24-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:6:9-34:20
+25            android:name="com.example.poke_app.MainActivity"
+25-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:7:13-41
+26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+26-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:10:13-163
+27            android:hardwareAccelerated="true"
+27-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:11:13-47
+28            android:launchMode="singleTop"
+28-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:8:13-43
+29            android:theme="@style/LaunchTheme"
+29-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:9:13-47
+30            android:windowSoftInputMode="adjustResize" >
+30-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:12:13-55
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 31
 32            <!--
 33                 Specifies an Android theme to apply to this Activity as soon as
@@ -55,11 +93,19 @@
 36                 to determine the Window background behind the Flutter UI.
 37            -->
 38            <meta-data
+<<<<<<< HEAD
 38-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:17:13-20:17
 39                android:name="io.flutter.embedding.android.NormalTheme"
 39-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:18:15-70
 40                android:resource="@style/NormalTheme" />
 40-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:19:15-52
+=======
+38-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:17:13-20:17
+39                android:name="io.flutter.embedding.android.NormalTheme"
+39-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:18:15-70
+40                android:resource="@style/NormalTheme" />
+40-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:19:15-52
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 41            <!--
 42                 Displays an Android View that continues showing the launch screen
 43                 Drawable until Flutter paints its first frame, then this splash
@@ -68,6 +114,7 @@
 46                 Flutter's first frame.
 47            -->
 48            <meta-data
+<<<<<<< HEAD
 48-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:26:13-29:17
 49                android:name="io.flutter.embedding.android.SplashScreenDrawable"
 49-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:27:15-79
@@ -83,6 +130,23 @@
 55                <category android:name="android.intent.category.LAUNCHER" />
 55-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:32:17-76
 55-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:32:27-74
+=======
+48-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:26:13-29:17
+49                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+49-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:27:15-79
+50                android:resource="@drawable/launch_background" />
+50-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:28:15-61
+51
+52            <intent-filter>
+52-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:30:13-33:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:31:17-68
+53-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:31:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:32:17-76
+55-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:32:27-74
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 56            </intent-filter>
 57        </activity>
 58        <!--
@@ -90,6 +154,7 @@
 60             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 61        -->
 62        <meta-data
+<<<<<<< HEAD
 62-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:37:9-39:33
 63            android:name="flutterEmbedding"
 63-->C:\meus_projetos\flutter\poke_app\android\app\src\main\AndroidManifest.xml:38:13-44
@@ -116,11 +181,40 @@
 74-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c5fe3d870dce4eed5d8b213f2bf733ca\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
 75                android:value="com.google.firebase.components.ComponentRegistrar" />
 75-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c5fe3d870dce4eed5d8b213f2bf733ca\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+=======
+62-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:37:9-39:33
+63            android:name="flutterEmbedding"
+63-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:38:13-44
+64            android:value="2" />
+64-->/home/rafael/development/poke_app/android/app/src/main/AndroidManifest.xml:39:13-30
+65
+66        <service
+66-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:27:9-33:19
+67            android:name="com.google.firebase.components.ComponentDiscoveryService"
+67-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:28:13-84
+68            android:directBootAware="true"
+68-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+69            android:exported="false" >
+69-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:29:13-37
+70            <meta-data
+70-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:30:13-32:85
+71                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+71-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:31:17-139
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.android.gms:play-services-measurement-api:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/d45d721fa175bba3faf9b759edbbe69d/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:32:17-82
+73            <meta-data
+73-->[com.google.firebase:firebase-installations:16.3.5] /home/rafael/.gradle/caches/transforms-2/files-2.1/c5fe3d870dce4eed5d8b213f2bf733ca/jetified-firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+74                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+74-->[com.google.firebase:firebase-installations:16.3.5] /home/rafael/.gradle/caches/transforms-2/files-2.1/c5fe3d870dce4eed5d8b213f2bf733ca/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[com.google.firebase:firebase-installations:16.3.5] /home/rafael/.gradle/caches/transforms-2/files-2.1/c5fe3d870dce4eed5d8b213f2bf733ca/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 76            <!--
 77                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
 78                clients to use it as well, by defining this registrar in their own core/common library.
 79            -->
 80            <meta-data
+<<<<<<< HEAD
 80-->[com.google.firebase:firebase-common:19.5.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\a348beea78586f27ffc2391bf0a13f9b\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
 81                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
 81-->[com.google.firebase:firebase-common:19.5.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\a348beea78586f27ffc2391bf0a13f9b\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
@@ -176,6 +270,63 @@
 109-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\bca6c35aaf5e106d2e94cb61e353e66b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
 110            android:value="@integer/google_play_services_version" />
 110-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\bca6c35aaf5e106d2e94cb61e353e66b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+=======
+80-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+81                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+81-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+83        </service>
+84
+85        <provider
+85-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+86            android:name="com.google.firebase.provider.FirebaseInitProvider"
+86-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+87            android:authorities="com.example.poke_app.firebaseinitprovider"
+87-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+88            android:directBootAware="true"
+88-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+89            android:exported="false"
+89-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+90            android:initOrder="100" />
+90-->[com.google.firebase:firebase-common:19.5.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/a348beea78586f27ffc2391bf0a13f9b/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+91
+92        <receiver
+92-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:29:9-33:20
+93            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+93-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:30:13-85
+94            android:enabled="true"
+94-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:31:13-35
+95            android:exported="false" >
+95-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:32:13-37
+96        </receiver>
+97
+98        <service
+98-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:35:9-38:40
+99            android:name="com.google.android.gms.measurement.AppMeasurementService"
+99-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:36:13-84
+100            android:enabled="true"
+100-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:37:13-35
+101            android:exported="false" />
+101-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:38:13-37
+102        <service
+102-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:39:9-43:72
+103            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+103-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:40:13-87
+104            android:enabled="true"
+104-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:41:13-35
+105            android:exported="false"
+105-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:42:13-37
+106            android:permission="android.permission.BIND_JOB_SERVICE" />
+106-->[com.google.android.gms:play-services-measurement:18.0.3] /home/rafael/.gradle/caches/transforms-2/files-2.1/00caba75b00c4e48d3ac8aa18aedb6c7/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:43:13-69
+107
+108        <meta-data
+108-->[com.google.android.gms:play-services-basement:17.0.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+109            android:name="com.google.android.gms.version"
+109-->[com.google.android.gms:play-services-basement:17.0.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+110            android:value="@integer/google_play_services_version" />
+110-->[com.google.android.gms:play-services-basement:17.0.0] /home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
 111    </application>
 112
 113</manifest>

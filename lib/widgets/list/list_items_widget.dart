@@ -29,6 +29,23 @@ class _ListItemsPokemonsState extends State<ListItemsPokemons> {
     'Butterfree',
     'Pidgeotto	',
     'Onix',
+    'Pikachu',
+    'Squirtle',
+    'Bulbasaur',
+    'Charizard',
+    'Kadabra',
+    'Alakazam',
+    'Gastly',
+    'Rattata',
+    'Caterpie',
+    'Ivysaur',
+    'Bulbasaur',
+    'Charmander',
+    'Squirtle',
+    'Caterpie',
+    'Butterfree',
+    'Pidgeotto	',
+    'Onix',
   ];
 
   @override
@@ -40,7 +57,15 @@ class _ListItemsPokemonsState extends State<ListItemsPokemons> {
         child: ListView.builder(
             itemCount: listItemsPokemons.length,
             itemBuilder: (_, int index) {
-              return Text(listItemsPokemons[index]);
+              return Container(
+                padding: EdgeInsets.symmetric(horizontal: 16.0, vertical: 16.0),
+                child: Center(
+                  child: Text(
+                    listItemsPokemons[index],
+                    style: TextStyle(fontSize: 28),
+                  ),
+                ),
+              );
             }),
       ),
       drawer: DrawerWidget(),

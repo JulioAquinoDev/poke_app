@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\meus_projetos\\flutter\\poke_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\bca6c35aaf5e106d2e94cb61e353e66b\\jetified-play-services-basement-17.0.0\\res\\values-ka\\values.xml",
+=======
+            "outputFile": "/home/rafael/development/poke_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
+            "map": [
+                {
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/bca6c35aaf5e106d2e94cb61e353e66b/jetified-play-services-basement-17.0.0/res/values-ka/values.xml",
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +28,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\julio\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values-ka\\values-ka.xml",
+=======
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-ka/values-ka.xml",
+>>>>>>> ddc3ed6159ffeef22f02fe7b4890411fffc80459
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
