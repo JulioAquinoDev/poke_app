@@ -24,44 +24,41 @@ class _SearchWidgetState extends State<SearchWidget> {
             textDirection: TextDirection.ltr,
           ),
         ),
-        body: Padding(
-          padding:
-              const EdgeInsets.symmetric(horizontal: 26.0, vertical: 250.0),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Container(
-                child: TextFormField(
-                  textAlign: TextAlign.center,
-                  decoration: InputDecoration(
-                    hintText: pesquisar,
+        body: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Container(
+              padding: EdgeInsets.symmetric(horizontal: 55.0),
+              child: TextFormField(
+                textAlign: TextAlign.center,
+                decoration: InputDecoration(
+                  hintText: pesquisar,
+                  hintStyle: TextStyle(fontSize: 20),
+                ),
+              ),
+            ),
+            // Adicionar um botão para buscar
+            Container(
+              padding: EdgeInsets.symmetric(horizontal: 10.0, vertical: 10.0),
+              child: OutlinedButton.icon(
+                onPressed: () {
+                  // Implementar aqui funções de buscas
+                },
+                icon: Icon(
+                  Icons.search,
+                  size: 25,
+                  color: AppConsts.secundaryColor,
+                ),
+                label: Text(
+                  "PESQUISAR",
+                  style: TextStyle(
+                    fontSize: 25,
+                    color: AppConsts.secundaryColor,
                   ),
                 ),
               ),
-              // Adicionar um botão para buscar
-              Container(
-                child: Center(
-                  child: Padding(
-                      padding: const EdgeInsets.symmetric(
-                        horizontal: 16.0,
-                        vertical: 16.0,
-                      ),
-                      child: OutlinedButton.icon(
-                        onPressed: () {
-                          // Implementar aqui função de buscas
-                        },
-                        icon: Icon(
-                          Icons.search,
-                          size: 25,
-                        ),
-                        label: Text(
-                          "PESQUISAR",
-                        ),
-                      )),
-                ),
-              ),
-            ],
-          ),
+            ),
+          ],
         ),
       ),
     );
