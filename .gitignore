@@ -1,5 +1,17 @@
 # arquivos a serem ignorados
 
-*.build
-*.ios
-*.linux
+*.filecache
+*.dill
+*.flutter-plugins-dependencies
+*.cache.dill
+*.track.dill
+*.vscode
+*.bin
+*.jar
+*.packages
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.last_build_id
+*.txt
+*.apk
+*.sha1

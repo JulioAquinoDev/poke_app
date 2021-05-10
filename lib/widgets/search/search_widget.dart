@@ -13,21 +13,12 @@ class _SearchWidgetState extends State<SearchWidget> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: pesquisar,
       home: Scaffold(
         // cor de fundo
         backgroundColor: AppConsts.primaryColor,
-        appBar: AppBar(
-          // cor de fundo do app bar
-          backgroundColor: AppConsts.secundaryColor,
-          shadowColor: AppConsts.secundaryColor,
-          title: Center(
-            child: Text(
-              titulo,
-              textDirection: TextDirection.ltr,
-            ),
-          ),
-        ),
+
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [

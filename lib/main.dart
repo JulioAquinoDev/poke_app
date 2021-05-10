@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/search/search_widget.dart';
+import 'widgets/app.dart';
 
 void main() {
-  runApp(SearchWidget());
+  runApp(App());
 }
