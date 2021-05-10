@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:poke_app/utils/consts.dart';
-import 'package:poke_app/widgets/search/search_widget.dart';
 
-import 'drawer/drawer_widget.dart';
+
+import 'pages/page_view_widget.dart';
 
 class App extends StatelessWidget {
   final String titulo = 'Poke App';
@@ -17,15 +17,21 @@ class App extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: AppConsts.secundaryColor,
           shadowColor: AppConsts.secundaryColor,
-          title: Text(
-            titulo,
-            textDirection: TextDirection.ltr,
+          title: Center(
+            child: Text(
+              titulo,
+              textDirection: TextDirection.ltr,
+            ),
           ),
         ),
         // Cor de fundo amarelho
         backgroundColor: AppConsts.primaryColor,
-        body: SearchWidget(),
-        drawer: DrawerWidget(),
+
+        body: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 2.5),
+          child: PageViewWidget(),
+        ),
+        // drawer: DrawerWidget(),
       ),
     );
   }

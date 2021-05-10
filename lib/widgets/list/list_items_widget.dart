@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:poke_app/utils/consts.dart';
-import 'package:poke_app/widgets/drawer/drawer_widget.dart';
 
 class ListItemsPokemons extends StatefulWidget {
   const ListItemsPokemons({Key key}) : super(key: key);
@@ -68,7 +67,7 @@ class _ListItemsPokemonsState extends State<ListItemsPokemons> {
               );
             }),
       ),
-      drawer: DrawerWidget(),
+      //drawer: DrawerWidget(),
     );
   }
 }
