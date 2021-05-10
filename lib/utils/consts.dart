@@ -20,6 +20,9 @@ class AppConsts {
     heightPercentage = heightSize / xdHeightSize;
   }
 
-  static Color primaryColor = const Color(0xFFffe270);
-  static Color secundaryColor = const Color(0xFFfc5f00);
+  static Color primaryColor = const Color(0xFFFFF933);
+  static Color secundaryColor = const Color(0xFFF93318);
+  static Color thirdColor = const Color(0xFF7DC62C);
+  static Color fourthColor = const Color(0xFF196EEF);
+  static Color fifthColor = const Color(0xFFB243F0);
 }

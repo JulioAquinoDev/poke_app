@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'widgets/details/details_widget.dart';
-
+import 'widgets/app.dart';
 void main() {
-  runApp(DetailsWidget());
+  runApp(App());
 }
