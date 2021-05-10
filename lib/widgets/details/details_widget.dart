@@ -20,9 +20,15 @@ class _DetailsWidgetState extends State<DetailsWidget> {
         appBar: AppBar(
           backgroundColor: AppConsts.secundaryColor,
           shadowColor: AppConsts.secundaryColor,
-          title: Text(
-            titulo,
-            textDirection: TextDirection.ltr,
+          title: Center(
+            child: Text(
+              titulo,
+              textDirection: TextDirection.ltr,
+              style: TextStyle(
+                fontSize: 36.0,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
           ),
         ),
         body: Center(
@@ -37,7 +43,7 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                   children: [
                     Container(
                       decoration: BoxDecoration(
-                        color: Colors.white,
+                        color: AppConsts.secundaryColor,
                         boxShadow:[
                           BoxShadow(
                             blurRadius: 2.0,
@@ -48,7 +54,7 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                       ),
                       child: Icon(
                         Icons.arrow_back,
-                        color: Colors.grey,
+                        color: Colors.white,
                         size: 36.0,
                       ),
                     ),
@@ -157,7 +163,7 @@ class _DetailsWidgetState extends State<DetailsWidget> {
             size: 36.0,
           ),
         ),
-        drawer: DrawerWidget(),
+        //endDrawer: DrawerWidget(),
       ),
     );    
   }
