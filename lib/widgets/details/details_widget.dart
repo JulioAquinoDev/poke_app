@@ -113,14 +113,10 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                       ),
                     ),
                     // Container pokébola
-
                     Center(
                       child: Container(
                         width: 250.0,
                         height: 250.0,
-                        child: Icon(
-                          Icons.add_a_photo,
-                        ),
                         decoration: BoxDecoration(
                           color: Colors.white,
                           border: Border.all(
@@ -137,6 +133,12 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                               offset: Offset(1, 8),
                             ),
                           ],
+                          image: DecorationImage(
+                            fit: BoxFit.fill,
+                            image: AssetImage(
+                              "assets/img/Pokebola.png",
+                            ),
+                          ),                        
                         ),
                       ),
                     ),
@@ -155,6 +157,7 @@ class _DetailsWidgetState extends State<DetailsWidget> {
             size: 36.0,
           ),
         ),
+        drawer: DrawerWidget(),
       ),
     );    
   }

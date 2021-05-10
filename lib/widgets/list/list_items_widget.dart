@@ -68,6 +68,7 @@ class _ListItemsPokemonsState extends State<ListItemsPokemons> {
               );
             }),
       ),
+      drawer: DrawerWidget(),
     );
   }
 }

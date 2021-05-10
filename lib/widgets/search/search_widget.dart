@@ -65,6 +65,7 @@ class _SearchWidgetState extends State<SearchWidget> {
             ),
           ],
         ),
+        drawer: DrawerWidget(),
       ),
     );
   }
