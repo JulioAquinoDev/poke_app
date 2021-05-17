@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:poke_app/utils/consts.dart';
 
 
 import 'pages/page_view_widget.dart';
@@ -14,21 +13,11 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: titulo,
       home: Scaffold(
-        appBar: AppBar(
-          backgroundColor: AppConsts.secundaryColor,
-          shadowColor: AppConsts.secundaryColor,
-          title: Center(
-            child: Text(
-              titulo,
-              textDirection: TextDirection.ltr,
-            ),
-          ),
-        ),
         // Cor de fundo amarelho
-        backgroundColor: AppConsts.primaryColor,
+        //backgroundColor: AppConsts.primaryColor,
 
         body: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 2.5),
+          padding: const EdgeInsets.symmetric(horizontal: 0, vertical: 0),
           child: PageViewWidget(),
         ),
         // drawer: DrawerWidget(),

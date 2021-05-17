@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:poke_app/utils/consts.dart';
+import 'package:poke_app/widgets/search/search_widget.dart';
 
 class DetailsWidget extends StatefulWidget {
   @override
@@ -13,53 +14,39 @@ class _DetailsWidgetState extends State<DetailsWidget> {
   @override
   Widget build(BuildContext context) {
     
-     return MaterialApp(
+    return MaterialApp(
       title: details,
       home: Scaffold(
-        
+        appBar: AppBar(
+          leading: new IconButton(
+            icon: new Icon(
+              Icons.close,
+              color: Colors.white,
+              size: 36.0,
+            ), 
+            onPressed: () {},
+          ),
+          backgroundColor: AppConsts.secundaryColor,
+          shadowColor: AppConsts.secundaryColor,
+          centerTitle: true,
+          title: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisSize: MainAxisSize.min,
+            children:[
+              Text(
+              titulo,
+              textDirection: TextDirection.ltr,
+            ),
+            ]
+            
+          ),
+        ),
+      
+        // ignore: missing_required_param
         backgroundColor: AppConsts.primaryColor,
         body: Center(
           child: Column(
             children: [
-              Row(
-                children: [
-                  // Container(
-                  //   decoration: BoxDecoration(
-                  //     color: AppConsts.secundaryColor,
-                  //     boxShadow:[
-                  //       BoxShadow(
-                  //         blurRadius: 2.0,
-                  //         color: Colors.grey,
-                  //         offset: Offset(2,4),
-                  //       ),
-                  //     ],
-                  //   ),
-                  //   child: Icon(
-                  //     Icons.arrow_back,
-                  //     color: Colors.white,
-                  //     size: 36.0,
-                  //   ),
-                  // ),
-                  // Container(
-                  //   width: 300.0,
-                  //   child: Text("Pokébola",
-                  //   textAlign: TextAlign.center,
-                  //   style: TextStyle(
-                  //     fontSize: 36.0,
-                  //     color: Colors.white,
-                  //     fontWeight: FontWeight.bold,
-                  //     shadows: [
-                  //       Shadow(
-                  //         blurRadius: 7.0,
-                  //         color: Colors.grey,
-                  //         offset: Offset(5,5),
-                  //       ),
-                  //     ],
-                  //   ),
-                  //   ),
-                  // ),
-                ],
-              ),
               Stack(
                 children: [
                   // Container detalhes
@@ -68,11 +55,11 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                       margin: EdgeInsets.only(
                         top: 125.0,
                       ),
-                      width: 398.0,
-                      height: 438.0,
+                      width: 390.0,
+                      height: 515.0,
                       child: Padding(
                         padding: const EdgeInsets.only(
-                          top: 150.0,  
+                          top: 150.0,
                         ),
                         child: Text(
                           "Detalhes do Pokémon",
@@ -132,8 +119,13 @@ class _DetailsWidgetState extends State<DetailsWidget> {
         ),
 
         floatingActionButton: FloatingActionButton(
-          onPressed: () {},
-          backgroundColor: AppConsts.primaryColor,
+          onPressed: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => SearchWidget()),
+            );
+          },
+          backgroundColor: AppConsts.secundaryColor,
           child: Icon(
             Icons.search,
             color: Colors.white,

@@ -9,6 +9,7 @@ class ListItemsPokemons extends StatefulWidget {
 }
 
 class _ListItemsPokemonsState extends State<ListItemsPokemons> {
+  final String titulo = 'Pokémon App';
   // Criando a lista de pokemons aqui
   List<String> listItemsPokemons = [
     'Pikachu',
@@ -50,6 +51,16 @@ class _ListItemsPokemonsState extends State<ListItemsPokemons> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+          backgroundColor: AppConsts.secundaryColor,
+          shadowColor: AppConsts.secundaryColor,
+          title: Center(
+            child: Text(
+              titulo,
+              textDirection: TextDirection.ltr,
+            ),
+          ),
+      ),
       backgroundColor: AppConsts.primaryColor,
       body: Container(
         // usando o ListView.builder para construir nossa lista de pokemons

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:poke_app/utils/consts.dart';
-import 'package:poke_app/widgets/drawer/drawer_widget.dart';
 
 class SearchWidget extends StatefulWidget {
   @override
@@ -8,8 +7,8 @@ class SearchWidget extends StatefulWidget {
 }
 
 class _SearchWidgetState extends State<SearchWidget> {
-  final String titulo = 'Poke App';
-  final String pesquisar = 'Pesquise um pokémon';
+  final String titulo = 'Pokémon App';
+  final String pesquisar = 'Pesquise um Pokémon';
 
   @override
   Widget build(BuildContext context) {
@@ -17,6 +16,17 @@ class _SearchWidgetState extends State<SearchWidget> {
       debugShowCheckedModeBanner: false,
       title: pesquisar,
       home: Scaffold(
+        
+        appBar: AppBar(
+          backgroundColor: AppConsts.secundaryColor,
+          shadowColor: AppConsts.secundaryColor,
+          title: Center(
+            child: Text(
+              titulo,
+              textDirection: TextDirection.ltr,
+            ),
+          ),
+        ),
         // cor de fundo
         backgroundColor: AppConsts.primaryColor,
         body: Column(
@@ -55,7 +65,6 @@ class _SearchWidgetState extends State<SearchWidget> {
             ),
           ],
         ),
-        drawer: DrawerWidget(),
       ),
     );
   }
