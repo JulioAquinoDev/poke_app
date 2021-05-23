@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:poke_app/utils/consts.dart';
 
-import 'pages/page_view_widget.dart';
+import 'page_view/page_view_widget.dart';
 
 class App extends StatelessWidget {
   final String titulo = 'Poke App';
