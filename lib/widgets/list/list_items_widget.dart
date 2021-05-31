@@ -50,6 +50,8 @@ class _ListItemsPokemonsState extends State<ListItemsPokemons> {
 
   @override
   Widget build(BuildContext context) {
+    AppConsts.setWidthSize(MediaQuery.of(context).size.width);
+    AppConsts.setHeightSize(MediaQuery.of(context).size.height);
     return Scaffold(
       appBar: AppBar(
           backgroundColor: AppConsts.secundaryColor,

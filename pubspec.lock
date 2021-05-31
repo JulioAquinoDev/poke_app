@@ -70,14 +70,14 @@ packages:
       name: ffi
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.1.1"
   file:
     dependency: transitive
     description:
       name: file
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.1.0"
+    version: "6.1.1"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -94,14 +94,14 @@ packages:
       name: google_fonts
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.0"
+    version: "2.1.0"
   http:
     dependency: transitive
     description:
       name: http
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.13.2"
+    version: "0.13.3"
   http_parser:
     dependency: transitive
     description:
@@ -136,7 +136,7 @@ packages:
       name: path_provider
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.1"
+    version: "2.0.2"
   path_provider_linux:
     dependency: transitive
     description:
