@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:poke_app/utils/consts.dart';
+import 'package:poke_app/widgets/search/search_widget.dart';
 
 class DetailsWidget extends StatefulWidget {
   @override
@@ -12,11 +13,10 @@ class _DetailsWidgetState extends State<DetailsWidget> {
 
   @override
   Widget build(BuildContext context) {
-    
-     return MaterialApp(
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: details,
       home: Scaffold(
-        
         backgroundColor: AppConsts.primaryColor,
         body: Center(
           child: Column(
@@ -72,7 +72,7 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                       height: 438.0,
                       child: Padding(
                         padding: const EdgeInsets.only(
-                          top: 150.0,  
+                          top: 150.0,
                         ),
                         child: Text(
                           "Detalhes do Pokémon",
@@ -85,13 +85,13 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                       ),
                       decoration: BoxDecoration(
                         color: Colors.white,
-                        boxShadow:[
+                        boxShadow: [
                           BoxShadow(
                             color: Colors.grey,
                             blurRadius: 8,
                             offset: Offset(0, 4),
                           ),
-                        ], 
+                        ],
                       ),
                     ),
                   ),
@@ -109,7 +109,7 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                         borderRadius: BorderRadius.all(
                           Radius.circular(150.0),
                         ),
-                        boxShadow:[
+                        boxShadow: [
                           BoxShadow(
                             color: Colors.grey,
                             blurRadius: 8,
@@ -121,7 +121,7 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                           image: AssetImage(
                             "assets/img/Pokebola.png",
                           ),
-                        ),                        
+                        ),
                       ),
                     ),
                   ),
@@ -132,8 +132,13 @@ class _DetailsWidgetState extends State<DetailsWidget> {
         ),
 
         floatingActionButton: FloatingActionButton(
-          onPressed: () {},
-          backgroundColor: AppConsts.primaryColor,
+          onPressed: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => SearchWidget()),
+            );
+          },
+          backgroundColor: AppConsts.secundaryColor,
           child: Icon(
             Icons.search,
             color: Colors.white,
