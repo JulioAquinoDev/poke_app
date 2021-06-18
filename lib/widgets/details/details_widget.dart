@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:poke_app/utils/common.dart';
 import 'package:poke_app/utils/consts.dart';
 import 'package:poke_app/widgets/search/search_widget.dart';
 
@@ -14,38 +13,10 @@ class _DetailsWidgetState extends State<DetailsWidget> {
 
   @override
   Widget build(BuildContext context) {
-    AppConsts.setWidthSize(MediaQuery.of(context).size.width);
-    AppConsts.setHeightSize(MediaQuery.of(context).size.height);
-    
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: details,
       home: Scaffold(
-        appBar: AppBar(
-          leading: new IconButton(
-            icon: new Icon(
-              Icons.close,
-              color: Colors.white,
-              size: 36.0,
-            ), 
-            onPressed: () {},
-          ),
-          backgroundColor: AppConsts.secundaryColor,
-          shadowColor: AppConsts.secundaryColor,
-          centerTitle: true,
-          title: Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            mainAxisSize: MainAxisSize.min,
-            children:[
-              Text(
-              titulo,
-              textDirection: TextDirection.ltr,
-            ),
-            ]
-            
-          ),
-        ),
-      
-        // ignore: missing_required_param
         backgroundColor: AppConsts.primaryColor,
         body: Center(
           child: Column(
@@ -56,13 +27,13 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                   Center(
                     child: Container(
                       margin: EdgeInsets.only(
-                        top: 140.0,
+                        top: 125.0,
                       ),
-                      width: setWidth(350.0),
-                      height: setHeight(435.0),
+                      width: 398.0,
+                      height: 438.0,
                       child: Padding(
                         padding: const EdgeInsets.only(
-                          top: 180.0,
+                          top: 150.0,
                         ),
                         child: Text(
                           "Detalhes do Pokémon",
@@ -75,47 +46,42 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                       ),
                       decoration: BoxDecoration(
                         color: Colors.white,
-                        boxShadow:[
+                        boxShadow: [
                           BoxShadow(
                             color: Colors.grey,
                             blurRadius: 8,
                             offset: Offset(0, 4),
                           ),
-                        ], 
+                        ],
                       ),
                     ),
                   ),
                   // Container pokébola
                   Center(
-                    child: Padding(
-                      padding: const EdgeInsets.only(
-                        top: 15.0
-                      ),
-                      child: Container(
-                        width: setWidth(250.0),
-                        height: setHeight(250.0),
-                        decoration: BoxDecoration(
-                          color: Colors.white,
-                          border: Border.all(
-                            color: Colors.black,
-                            width: setWidth(7.0),
+                    child: Container(
+                      width: 250.0,
+                      height: 250.0,
+                      decoration: BoxDecoration(
+                        color: Colors.white,
+                        border: Border.all(
+                          color: Colors.black,
+                          width: 5.0,
+                        ),
+                        borderRadius: BorderRadius.all(
+                          Radius.circular(150.0),
+                        ),
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.grey,
+                            blurRadius: 8,
+                            offset: Offset(1, 8),
                           ),
-                          borderRadius: BorderRadius.all(
-                            Radius.circular(150.0),
+                        ],
+                        image: DecorationImage(
+                          fit: BoxFit.fill,
+                          image: AssetImage(
+                            "assets/img/Pokebola.png",
                           ),
-                          boxShadow:[
-                            BoxShadow(
-                              color: Colors.grey,
-                              blurRadius: 8,
-                              offset: Offset(1, 8),
-                            ),
-                          ],
-                          image: DecorationImage(
-                            fit: BoxFit.fill,
-                            image: AssetImage(
-                              "assets/img/Pokebola.png",
-                            ),
-                          ),                        
                         ),
                       ),
                     ),
@@ -140,7 +106,6 @@ class _DetailsWidgetState extends State<DetailsWidget> {
             size: 36.0,
           ),
         ),
-        //endDrawer: DrawerWidget(),
       ),
     );
   }
